@@ -19,11 +19,10 @@
 User Function SELECTCOM()
 
 	// Filiais
-	Private cFilialZC2	:=  xFilial('ZC2')
+	Private cFilialZC2	:=  xFilial('SZ2')
 
 	// Tabelas
-	DbSelectArea("ZC2")
-
+	DbSelectArea("SZ2")
 
 
 	LIMPCOM()
